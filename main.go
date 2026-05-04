@@ -1,5 +1,6 @@
 package main
 
+//Я тебя люблю
 import (
 	"fmt"
 )
